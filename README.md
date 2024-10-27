@@ -7,7 +7,8 @@ As a data analyst, I need to create the dashboard with the relevant metrics as p
 ## Tools Used:
 Excel
 ## Dashboard
-![excel super store analysis](https://github.com/user-attachments/assets/f6d15e72-810c-42c9-9205-afdc90a0618f)
+![excel super store dashboard](https://github.com/user-attachments/assets/33b096f4-a2bd-4d2e-9f33-79e36a995721)
+
 ## Insights
 ![excel super store insights](https://github.com/user-attachments/assets/2efec17e-77c4-4937-8019-8b9d8d854084)
 ## Learnt things from this Project
