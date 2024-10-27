@@ -11,6 +11,8 @@ Excel
 
 ## Insights
 ![excel super store insights](https://github.com/user-attachments/assets/2efec17e-77c4-4937-8019-8b9d8d854084)
-## Learnt things from this Project
-Learnt, how to use Data Cleaning and Processing. 
-Used Pivot table, Reporte connections to connect all the sheets of pivot table
+
+## Skills and Techniques Gained:
+ * Data Cleaning and Processing: Used Excel functions like IF formulas to structure data effectively.
+ * Interactive Dashboards: Applied slicers in PivotCharts for dynamic filtering and connected multiple pivot table sheets with report connections, creating an integrated view across metrics.
+ * Data Analysis: Leveraged PivotTables to analyze sales and demographic data, providing actionable insights for targeted marketing strategies.
